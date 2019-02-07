@@ -1,6 +1,11 @@
 body {
   font-family: PTSans-Narrow, sans-serif;
   color: white;
+
+  /*background-color: #000000;
+  background-image: url("img/bg.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;*/
 }
 .main-header li {
   font-family: PTSans-Narrow, sans-serif;
