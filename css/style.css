@@ -1,11 +1,12 @@
 body {
   font-family: PTSans-Narrow, sans-serif;
-  color: #ffffff;
+  color: white;
 }
 .main-header li {
   font-family: PTSans-Narrow, sans-serif;
   font-size: 14px;
-  color: #ffffff;
+  font-weight: bold;
+  color: white;
 
   background-color: black;
 }
@@ -15,10 +16,41 @@ body {
 .features-list h3 {
   font-family: PTSans-Narrow, sans-serif;
   font-size: 30px;
-  color: #ffffff; 
+  font-weight: bold;
+  color: white; 
 }
 .features-list p {
   font-family: PTSans-Narrow, sans-serif;
   font-size: 14px;
-  color: #ffffff;
+  font-weight: bold;
+  color: white;
+}
+.news {
+  background-color: white;
+}
+.news h2 {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
+.news-list p {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+}
+.news-list time {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+}
+.news button {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+
+  background-color: black;
 }
