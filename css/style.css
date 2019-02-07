@@ -1,0 +1,24 @@
+body {
+  font-family: PTSans-Narrow, sans-serif;
+  color: #ffffff;
+}
+.main-header li {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+
+  background-color: black;
+}
+.features {
+  background-color: black;
+}
+.features-list h3 {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 30px;
+  color: #ffffff; 
+}
+.features-list p {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+}
