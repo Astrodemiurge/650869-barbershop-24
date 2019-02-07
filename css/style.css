@@ -54,3 +54,104 @@ body {
 
   background-color: black;
 }
+.gallery {
+  background-color: white;
+}
+.gallery h2 {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
+.gallery-content img {
+  background-color: grey;
+}
+.gallery button {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  
+  background-color: black;
+}
+.contacts {
+  background-color: white;
+}
+.contacts h2 {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
+.contacts p {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+}
+.contacts a {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+    
+  background-color: black;
+}
+.appointment {
+  background-color: white;
+}
+.appointment h2 {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
+.appointment p {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+}
+.appointment label {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+}
+.appointment button {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+    
+  background-color: black;
+}
+.main-footer {
+  background-color: black;
+}
+.footer-contacts {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+}
+.footer-social b {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+}
+.footer-copyright b {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+}
+.footer-copyright a {
+  font-family: PTSans-Narrow, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+
+  background-color: black;
+}
